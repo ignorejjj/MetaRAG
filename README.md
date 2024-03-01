@@ -55,12 +55,13 @@ python main.py \
 If you find our paper or code useful, please cite the paper
 
 ```
-@inproceedings{anonymous2024metacognitive,
-title={Metacognitive Retrieval-Augmented Large Language Models},
-author={Anonymous},
-booktitle={The Web Conference 2024},
-year={2024},
-url={https://openreview.net/forum?id=TW2gJyR6Mj}
+@misc{zhou2024metacognitive,
+      title={Metacognitive Retrieval-Augmented Large Language Models}, 
+      author={Yujia Zhou and Zheng Liu and Jiajie Jin and Jian-Yun Nie and Zhicheng Dou},
+      year={2024},
+      eprint={2402.11626},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
